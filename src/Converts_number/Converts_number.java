@@ -6,16 +6,25 @@ Acceptance Criteria:
  (2) should calculate the result
  For example, "5000 seconds = 1 hours, 23 minutes, and 20 seconds".
  */
-
-
 import java.util.Scanner;
 
 public class Converts_number {
+	static Scanner scanner = new Scanner(System.in);
+
 
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
+		int number_of_seconds = getNumberOfSeconds();
+		getValidation(number_of_seconds);
+	}
+
+	public static int getNumberOfSeconds (){
 		System.out.println("Entere a number of seconds");
-		int number_of_seconds  = scanner.nextInt();
+		int my_number_of_seconds  = scanner.nextInt();
+		return my_number_of_seconds;
+	}
+
+	public static void getValidation(int number_of_seconds){
+
 		int minutes = 0;
 		int hours  = 0;
 		int minutes_rest = 0;
@@ -33,5 +42,4 @@ public class Converts_number {
 		}
 		System.out.println(number_of_seconds + " seconds = " + hours + " hours, " + minutes_rest + " minutes, " + seconds_rest + " seconds" );
 	}
-
 }
