@@ -20,7 +20,7 @@ public class Divisible {
 		int number = getNumber();
 		int number_rest = getNumber_rest(number);
 		int number_rest_by_five = getNumber_rest_by_five(number);
-		getValidation(number_rest,number_rest_by_five);
+		Validation(number_rest,number_rest_by_five);
 	}
 
 	public static int getNumber() {
@@ -38,7 +38,7 @@ public class Divisible {
 		int my_number_rest_by_five = number % 5;
 		return my_number_rest_by_five;
 	}
-	public static void getValidation(int number_rest, int number_rest_by_five){
+	public static void Validation(int number_rest, int number_rest_by_five){
 		if  (number_rest == 0 && number_rest_by_five == 0){
 			System.out.println("Is divisible by 3 and 5");
 			System.exit(0);

@@ -14,7 +14,7 @@ public class Converts_number {
 
 	public static void main(String[] args) {
 		int number_of_seconds = getNumberOfSeconds();
-		getValidation(number_of_seconds);
+		Validation(number_of_seconds);
 	}
 
 	public static int getNumberOfSeconds (){
@@ -23,7 +23,7 @@ public class Converts_number {
 		return my_number_of_seconds;
 	}
 
-	public static void getValidation(int number_of_seconds){
+	public static void Validation(int number_of_seconds){
 
 		int minutes = 0;
 		int hours  = 0;

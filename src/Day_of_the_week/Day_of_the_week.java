@@ -16,7 +16,7 @@ public class Day_of_the_week {
 
 	public static void main(String[] args) {
 		int number_of_day =getNumberOfDay();
-		getValidation(number_of_day);
+		Validation(number_of_day);
 
 	}
 	public static int getNumberOfDay() {
@@ -25,7 +25,7 @@ public class Day_of_the_week {
 		return number;
 	}
 
-	public static void getValidation( int number_of_day){
+	public static void Validation( int number_of_day){
 		switch (number_of_day) {
 			case 1:
 				System.out.println("1 day of the week is Monday");
