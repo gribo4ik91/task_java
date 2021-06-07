@@ -33,7 +33,7 @@ public class Divisible {
 		int my_number_rest = number % 3;
 		return my_number_rest;
 	}
-
+//test
 	public static int getNumber_rest_by_five(int number) {
 		int my_number_rest_by_five = number % 5;
 		return my_number_rest_by_five;

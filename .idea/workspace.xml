@@ -1,4 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7c3ee92-b3cb-4134-b3ca-ea2dd5805c45" name="Default Changelist" comment="Add OOP">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mammal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mammal/Claws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mammal/Feline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mammal/FelineGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mammal/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mammal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mammal/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Divisible/Divisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Divisible/Divisible.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="OOP" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qwKGHSCU2NW9KWCAQ34om7uvuQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Converts_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Converts_number.Converts_number" />
+      <module name="task_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Converts_number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mammal.Main" />
+      <module name="task_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mammal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Phone.PhoneDemo" />
+      <module name="task_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Phone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.TestClass" />
+      <module name="task_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.PhoneDemo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Converts_number" />
+        <item itemvalue="Application.TestClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c3ee92-b3cb-4134-b3ca-ea2dd5805c45" name="Default Changelist" comment="" />
+      <created>1617985114982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617985114982</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Done ex.1">
+      <created>1617985518922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617985518922</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Done ex.2">
+      <created>1617985781006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617985781006</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done ex.3">
+      <created>1617985902722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617985902722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Done ex. 1 with some changes according to the requirements">
+      <created>1617986272933</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617986272933</updated>
+    </task>
+    <task id="LOCAL-00005" summary="correcting some mistakes">
+      <created>1620824381699</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620824381699</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add OOP task">
+      <created>1623067317719</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623067317720</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add OOP">
+      <created>1623068623429</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623068623429</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add OOP">
+      <created>1623068994474</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623068994474</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add OOP">
+      <created>1623069135907</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1623069135907</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add OOP">
+      <created>1623070583446</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1623070583447</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add OOP">
+      <created>1623070798799</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1623070798799</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add OOP">
+      <created>1623070890630</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1623070890630</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add OOP">
+      <created>1623071221249</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1623071221249</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add OOP">
+      <created>1623071538743</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1623071538743</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add OOP">
+      <created>1623072458608</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1623072458608</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done ex.1" />
+    <MESSAGE value="Done ex.2" />
+    <MESSAGE value="Done ex.3" />
+    <MESSAGE value="Done ex. 1 with some changes according to the requirements" />
+    <MESSAGE value="correcting some mistakes" />
+    <MESSAGE value="add OOP task" />
+    <MESSAGE value="add OOP" />
+    <MESSAGE value="Add OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add OOP" />
+  </component>
 </project>
