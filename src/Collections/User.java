@@ -44,9 +44,9 @@ private Map<String, Address> addresses;
 
 	@Override
 	public String toString() {
-		return  "\n" +"{ "+
+		return  "\n" +"{ "+ "\n" +
 				"id = " + id +
-				", Name = '" + userName + " }"+
-				"Addresses details "+ addresses ;
+				", Name = '" + userName + "' }"+
+				", "+ addresses ;
 	}
 }
